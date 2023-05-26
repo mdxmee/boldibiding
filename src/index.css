@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgg{
+    background-image: url(../../client/public/homeBac.jpg);
+    background-size: cover;
+    height: 1300px;
+}
